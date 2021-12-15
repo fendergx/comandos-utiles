@@ -1,0 +1,16 @@
+funciona
+
+instalar node js
+https://www.geeksforgeeks.org/installation-of-node-js-on-linux/
+
+sudo apt-get update
+sudo apt-get install nodejs
+sudo apt-get install npm
+
+instalar nvm y trabajar con él
+https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
+
+sudo apt install curl 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+
+lo demás está en el link
