@@ -4,7 +4,7 @@
 
 https://www.figma.com/
 
-
+- De preferencia usar con gráficos dedicados
 
 Explicación general y usos básicos de Figma
 
