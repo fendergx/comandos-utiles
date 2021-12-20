@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=FoCNedUiVqU
 Crear variantes (útil)
 
 https://www.youtube.com/watch?v=Rb9NsUMdDHM
+
 (version larga)
 https://www.youtube.com/watch?v=48vVW6pl02o&t=1s
 
